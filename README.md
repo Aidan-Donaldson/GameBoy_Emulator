@@ -1,0 +1,8 @@
+# GameBoy Emulator
+
+An emulator for the original GameBoy that can play games that run on MBC1-based cartridges or directly mapped games.
+
+# How to compile
+
+Compile with:
+```gcc PPU.c -o exe```
