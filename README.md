@@ -9,4 +9,4 @@ Change the file path located in the BootSequence procedure to that of your .gb R
 # How to compile
 
 Compile with:
-```gcc PPU.c -o exe```
+```gcc -o emulator PPU.c -lSDL3```
