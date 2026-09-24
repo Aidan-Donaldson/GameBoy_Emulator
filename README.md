@@ -6,7 +6,7 @@ There are a couple visual bugs that still need fixed.
 # Load ROM
 Change the file path located in the BootSequence procedure to that of your .gb ROM. Ensure that the number of bits needed to address the number of banks in the cartridge is correctly set.
 
-The currently loaded ROM should be cpu_instrs.gb (should be in same directory when compiled). When run it should show all CPU tests passing out and outputting results to the screen.
+The currently loaded ROM should be cpu_instrs.gb (should be in the same directory as the rest when compiled). When run it should show all CPU tests passing out and outputting results to the screen.
 
 # How to compile
 
